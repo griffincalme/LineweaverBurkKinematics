@@ -26,3 +26,6 @@ https://commons.wikimedia.org/wiki/File:Inhibition_diagrams.png
 ________
 The two scripts already have sample data that will serve as an example.
 Modify the lists "s" and "v" (or vA & vB for CompareTwoEnzymes.py) in the first few lines of the program and input your own substrate concentration (μM) and velocity (μM/s) values, respectively.
+________
+
+email me at griffincalme@wayne.edu for questions or help
